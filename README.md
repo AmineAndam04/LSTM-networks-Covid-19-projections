@@ -4,3 +4,7 @@ This repo contains python code for covid-19 projections using LSTM networks.
 Data is available at : [Kaggle](https://www.kaggle.com/amineandam/morocco-nationalregionalprovincial-covid-data)
 
 You can visit the website: [Covid-19 projections](https://amineandam04.github.io/Morocco-COVID-19-projections/)
+## Requirements
+you should have the following packages: Tensorflow, Pandas and numpy.
+
+We recommend you to use Google Colab to run the notebooks
